@@ -1,1 +1,2 @@
-# MutiAgent
+# MultiAgent
+typo in repo name
